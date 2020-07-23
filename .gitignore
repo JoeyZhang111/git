@@ -4,3 +4,5 @@ src/
 
 # python 缓存文件
 *.py[cod]
+
+*.xl[asdf]
